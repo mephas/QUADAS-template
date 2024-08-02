@@ -1,0 +1,6 @@
+﻿,Risk of bias (QUADAS-2),,,,,Applicability concerns (QUADAS-2),,,,Risk of bias (QUADAS-C),,,
+,,I,,,,,I,,,,,,
+Study,P,Test1,Test2,R,FT,P,Test1,Test2,R,P,I,R,FT
+Aaa 2018,high,low,high,high,high,high,high,high,high,low,low,high,high
+Bbb 2019,unclear,high,high,high,low,high,unclear,high,high,unclear,low,high,low
+Ccc 2020,high,high,unclear,high,high,unclear,high,high,high,high,unclear,unclear,high
