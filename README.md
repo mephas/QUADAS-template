@@ -2,11 +2,11 @@
 
 Template datasets for QUADAS in **DTAmetasa**:
 
-- QUADAS_example.csv: assessment using both QUADAS-2 and -C
+- **QUADAS_example.csv**: assessment using both QUADAS-2 and -C
 
-- QUADAS2_example.csv: assessment using QUADAS-2
+- **QUADAS2_example.csv**: assessment using QUADAS-2
 
-- QUADASC_example.csv: assessment using QUADAS-C
+- **QUADASC_example.csv**: assessment using QUADAS-C
 
 **When you use it, change the values and the test names.**
 
