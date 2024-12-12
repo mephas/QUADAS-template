@@ -1,0 +1,10 @@
+﻿,,RISK OF BIAS (QUADAS-2),,,,APPLICABILITY CONCERNS (QUADAS-2),,
+STUDY,TEST,PATIENT SELECTION,INDEX TEST,REFERENCE STANDARD,FLOW AND TIMING,PATIENT SELECTION,INDEX TEST,REFERENCE STANDARD
+Aaa 2018,CT,high,low,high,high,high,high,high
+Aaa 2018,MRI,low,high,low,high,low,high,unclear
+Bbb 2019,CT,unclear,high,high,low,high,unclear,high
+Bbb 2019,MRI,low,high,high,low,high,unclear,high
+Ccc 2020,CT,high,high,low,high,unclear,high,unclear
+Ccc 2020,MRI,low,unclear,high,low,unclear,low,high
+Ddd 2020,CT,high,high,high,high,unclear,high,high
+Ddd 2020,MRI,low,high,low,high,unclear,high,high
